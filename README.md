@@ -5,4 +5,4 @@ Via this app, users can borrow or buy used books from other users!
 Νew authors can also have the opportunity to publish their eBooks and become known to the readers of the community.
 
 
-_Software Engineering Project 2023-2024 of Computer Engineering and Informatics Department, University of Patras_
+This project is part of **Software Engineering** compulsory course in Computer Engineering & Informatics Department of University of Patras for Spring Semester 2024 (Semester 8).
