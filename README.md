@@ -1,3 +1,5 @@
+# ReadEase 📖
+
 ![Ανώνυμο σχέδιο (3)](https://github.com/EvelyneKol/ReadEase/assets/116310337/9f16728a-e3a6-4f55-b1a9-523b6eeb05c6)
 
 **ReadEase** is an app that has been created for making reading books easy for everyone!
